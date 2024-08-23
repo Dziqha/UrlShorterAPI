@@ -15,9 +15,9 @@ To get started with URL Shortener, follow these steps:
 1. **Clone the Repository** 🧑‍💻
 
    ```bash
-   git clone https://github.com/Dziqha/UrlShortener.git
+   git clone https://github.com/Dziqha/UrlShorterAPI.git
 
-   cd urlshortener
+   cd urlshorterapi
    ```
 2. **Set Up Environment Variables** 🌍
 
@@ -34,6 +34,7 @@ To get started with URL Shortener, follow these steps:
     DB_LOC=your_Loc
     BASE_URL=your_base_url
     ```
+    Ganti `BASE_URL` dengan url atau domain untuk UrlShorterAPI
 3. **Install dependencies:** 📦
 
    ```bash
